@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Verein.App">
+    <Application.Resources>
+        <Color x:Key="PrimaryColor">#FF87CEEB</Color>
+        <Color x:Key="SecondaryColor">#FF7FFF00</Color>
+        <Color x:Key="TertiaryColor">#FFFF7F50</Color>
+        <Color x:Key="NoteColor">#FFE6E6FA</Color>
+        <Color x:Key="DarkTextColor">#FFEE82EE</Color>
+        <Color x:Key="LightTextColor">#FF9370DB</Color>
+        <Color x:Key="DangerColor">#FFFFDEAD</Color>
+
+
+        <Style TargetType="{x:Type NavigationPage}"
+               <Setter Property="BarBackgroundColor"
+                       Value="{StaticResource PrimaryColor}"/>
+            <Setter Property="BarTextColor"
+                    Value="{StaticResource LightTextColor}"/>
+        </Style>
+
+        <Style TargetTypw ="{x:Type Button}">
+            <Setter Property="Margin" Value="10" />
+            <Setter Property ="FontSize" Value="30" />
+            <Setter Property ="TextColor"
+                    Value="{StaticRessource TertiaryColor}"
+            
+    </Application.Resources>
+</Application>

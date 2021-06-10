@@ -1,0 +1,14 @@
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\bin\Debug\netstandard2.0\Verein.deps.json
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\bin\Debug\netstandard2.0\Verein.dll
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\bin\Debug\netstandard2.0\ref\Verein.dll
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\bin\Debug\netstandard2.0\Verein.pdb
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.csprojAssemblyReference.cache
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.AssemblyInfoInputs.cache
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.AssemblyInfo.cs
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.csproj.CoreCompileInputs.cache
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.dll
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\ref\Verein.dll
+C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.pdb
