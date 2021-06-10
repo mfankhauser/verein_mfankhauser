@@ -12,3 +12,20 @@ C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein
 C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.dll
 C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\ref\Verein.dll
 C:\Users\Fankhauser\Documents\APR\Mobile App Projekt\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.pdb
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.csprojAssemblyReference.cache
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Views\BalancePage.xaml.g.cs
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Views\DashboardPage.xaml.g.cs
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Views\RootPage.xaml.g.cs
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.AssemblyInfoInputs.cache
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.AssemblyInfo.cs
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.csproj.CoreCompileInputs.cache
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.dll
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\ref\Verein.dll
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\Verein.pdb
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\bin\Debug\netstandard2.0\Verein.deps.json
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\bin\Debug\netstandard2.0\Verein.dll
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\bin\Debug\netstandard2.0\ref\Verein.dll
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\bin\Debug\netstandard2.0\Verein.pdb
+C:\Users\prasser\Desktop\mfankhauser\Verein\Verein\Verein\Verein\obj\Debug\netstandard2.0\XamlC.stamp

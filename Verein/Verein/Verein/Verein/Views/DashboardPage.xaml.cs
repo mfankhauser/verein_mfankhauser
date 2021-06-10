@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Verein.ViewModels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -17,6 +17,8 @@ namespace Verein.Views
         public DashboardPage()
         {
             InitializeComponent();
+            this.BindingContext = viewModel =
+                new DashboardPageViewModel();
         }
     }
 }

@@ -9053,7 +9053,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fankhauser\\.nuget\\packages\\": {},
+    "C:\\Users\\prasser\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
@@ -9061,11 +9061,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fankhauser\\Documents\\APR\\Mobile App Projekt\\Verein\\Verein\\Verein\\Verein.UWP\\Verein.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\prasser\\Desktop\\mfankhauser\\Verein\\Verein\\Verein\\Verein.UWP\\Verein.UWP.csproj",
       "projectName": "Verein.UWP",
-      "projectPath": "C:\\Users\\Fankhauser\\Documents\\APR\\Mobile App Projekt\\Verein\\Verein\\Verein\\Verein.UWP\\Verein.UWP.csproj",
-      "packagesPath": "C:\\Users\\Fankhauser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fankhauser\\Documents\\APR\\Mobile App Projekt\\Verein\\Verein\\Verein\\Verein.UWP\\obj\\",
+      "projectPath": "C:\\Users\\prasser\\Desktop\\mfankhauser\\Verein\\Verein\\Verein\\Verein.UWP\\Verein.UWP.csproj",
+      "packagesPath": "C:\\Users\\prasser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\prasser\\Desktop\\mfankhauser\\Verein\\Verein\\Verein\\Verein.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -9074,7 +9074,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fankhauser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\prasser\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -9089,8 +9089,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Fankhauser\\Documents\\APR\\Mobile App Projekt\\Verein\\Verein\\Verein\\Verein\\Verein.csproj": {
-              "projectPath": "C:\\Users\\Fankhauser\\Documents\\APR\\Mobile App Projekt\\Verein\\Verein\\Verein\\Verein\\Verein.csproj"
+            "C:\\Users\\prasser\\Desktop\\mfankhauser\\Verein\\Verein\\Verein\\Verein\\Verein.csproj": {
+              "projectPath": "C:\\Users\\prasser\\Desktop\\mfankhauser\\Verein\\Verein\\Verein\\Verein\\Verein.csproj"
             }
           }
         }

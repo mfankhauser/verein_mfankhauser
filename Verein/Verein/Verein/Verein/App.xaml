@@ -12,18 +12,19 @@
         <Color x:Key="DangerColor">#FFFFDEAD</Color>
 
 
-        <Style TargetType="{x:Type NavigationPage}"
-               <Setter Property="BarBackgroundColor"
-                       Value="{StaticResource PrimaryColor}"/>
+        <Style TargetType="{x:Type NavigationPage}">
+            <Setter Property="BarBackgroundColor"
+                       Value="{StaticResource PrimaryColor}" />
             <Setter Property="BarTextColor"
-                    Value="{StaticResource LightTextColor}"/>
+                    Value="{StaticResource LightTextColor}" />
         </Style>
 
-        <Style TargetTypw ="{x:Type Button}">
+        <Style TargetType ="{x:Type Button}">
             <Setter Property="Margin" Value="10" />
             <Setter Property ="FontSize" Value="30" />
             <Setter Property ="TextColor"
-                    Value="{StaticRessource TertiaryColor}"
-            
+                    Value="{StaticResource TertiaryColor}" />
+        </Style>
+
     </Application.Resources>
 </Application>

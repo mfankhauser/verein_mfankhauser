@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5TZsP5LfdHn22eC4x8ozJhBTYssc/xl++aXrye5kGJbKkvWWPaipFBBR5MSpV2syajFlmPEYp7bgJO89H338BA==",
+  "dgSpecHash": "6LE2TC2EfB04YWM0kmPdDqp1G7H3ruZS7Ao8Ob1+D/KFovNcYDwhRgUYgwFDOyqNi9Rvem6kyBqm/cVzPzkPJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fankhauser\\Documents\\APR\\Mobile App Projekt\\Verein\\Verein\\Verein\\Verein.Android\\Verein.Android.csproj",
+  "projectFilePath": "C:\\Users\\prasser\\Desktop\\mfankhauser\\Verein\\Verein\\Verein\\Verein.Android\\Verein.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Fankhauser\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\prasser\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
@@ -36,8 +36,8 @@
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.loader\\1.1.0.6\\xamarin.androidx.loader.1.1.0.6.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.localbroadcastmanager\\1.0.0.6\\xamarin.androidx.localbroadcastmanager.1.0.0.6.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.media\\1.2.1.1\\xamarin.androidx.media.1.2.1.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.migration\\1.0.8\\xamarin.androidx.migration.1.0.8.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.multidex\\2.0.1.5\\xamarin.androidx.multidex.2.0.1.5.nupkg.sha512",
+    "C:\\Users\\prasser\\.nuget\\packages\\xamarin.androidx.migration\\1.0.8\\xamarin.androidx.migration.1.0.8.nupkg.sha512",
+    "C:\\Users\\prasser\\.nuget\\packages\\xamarin.androidx.multidex\\2.0.1.5\\xamarin.androidx.multidex.2.0.1.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.print\\1.0.0.6\\xamarin.androidx.print.1.0.0.6.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.recyclerview\\1.1.0.6\\xamarin.androidx.recyclerview.1.1.0.6.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.savedstate\\1.1.0.4-alpha01\\xamarin.androidx.savedstate.1.1.0.4-alpha01.nupkg.sha512",
@@ -49,10 +49,10 @@
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.versionedparcelable\\1.1.1.6\\xamarin.androidx.versionedparcelable.1.1.1.6.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.viewpager\\1.0.0.6\\xamarin.androidx.viewpager.1.0.0.6.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.viewpager2\\1.0.0.8\\xamarin.androidx.viewpager2.1.0.0.8.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\prasser\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\prasser\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.google.android.material\\1.2.1.1\\xamarin.google.android.material.1.2.1.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
+    "C:\\Users\\prasser\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-            xmls:views="vie"
+            xmlns:views="clr-namespace:Verein.Views"
              x:Class="Verein.Views.RootPage">
 
 
     <TabbedPage.Children>
-        <NavigationPage Title="Dashboard"
+        <NavigationPage Title="Dashboard">
             <x:Arguments>
             <views:DashboardPage />
             </x:Arguments>
@@ -14,9 +14,9 @@
 
 
 
-        <NavigationPage Title="Konto"
+        <NavigationPage Title="Konto">
             <x:Arguments>
-            <views:BalancePage />
+                <views:BalancePage />
             </x:Arguments>
         </NavigationPage>
     </TabbedPage.Children>
